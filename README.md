@@ -1,15 +1,21 @@
-# Hi 👋, I'm Ahmed Magdy
+<div align="center">
 
-### 🚀 Software Engineer | AI Engineer
+# Hello Hello 👋🏻,
+ This is Ahmed Magdy Asker
 
-Building scalable software, AI-powered applications, intelligent agents, and cross-platform mobile solutions.
+### 🚀 Software Engineer • AI Engineer
 
-* 🤖 AI Agents & RAG Systems
-* 🧠 Generative AI & LLM Applications
-* 📱 Android (Kotlin) & Flutter (Dart)
-* 🍎 iOS Development (Swift)
-* ⚙️ Backend Architecture & Distributed Systems
-* ☁️ AWS • Docker • Kubernetes • CI/CD
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;Developing+AI+Agents+and+RAG+Applications;Android+(Kotlin)+%7C+iOS+(Swift)+%7C+Flutter+(Dart);Cloud+Native+and+Scalable+Architectures" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your@email.com)
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge\&color=blueviolet)
+
+</div>
 
 ---
 
@@ -79,30 +85,41 @@ Building scalable software, AI-powered applications, intelligent agents, and cro
 
 ### 🧭 Leadership, Management & Tools
 
-![Agile](https://img.shields.io/badge/Agile_&_Scrum-2196F3?style=for-the-badge)
+![Agile & Scrum](https://img.shields.io/badge/Agile_&_Scrum-2196F3?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge\&logo=confluence\&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD_Automation-000000?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Architecture_Review-7E57C2?style=for-the-badge)
-![Mentorship](https://img.shields.io/badge/Team_Mentorship-29B6F6?style=for-the-badge)
+![CI/CD Automation](https://img.shields.io/badge/CI/CD_Automation-000000?style=for-the-badge)
+![Architecture Review](https://img.shields.io/badge/Architecture_Review-7E57C2?style=for-the-badge)
+![Team Mentorship](https://img.shields.io/badge/Team_Mentorship-29B6F6?style=for-the-badge)
 ![Release Management](https://img.shields.io/badge/Release_Management-9E9E9E?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Analytics
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your@email.com)
+* 🤖 AI Agents & Autonomous Workflows
+* 🧠 RAG & LLM Applications
+* 📱 Flutter, Android & iOS Development
+* ☁️ Cloud Native Architecture
+* 🚀 High-Performance Backend Systems
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge\&color=blueviolet)
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider following me and starring my repositories.
+
+</div>
