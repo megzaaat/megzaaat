@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1400&lines=Building+Intelligent+Systems;Developing+AI+Agents+and+RAG+Applications;Android+(Kotlin)+%7C+iOS+(Swift)+%7C+Flutter+(Dart);Cloud+Native+and+Scalable+Architectures"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=90&lines=Building+Intelligent+Systems;Developing+AI+Agents+and+RAG+Applications;Android+(Kotlin)+%7C+iOS+(Swift)+%7C+Flutter+(Dart);Cloud+Native+and+Scalable+Architectures"
     alt="Typing SVG"
   />
 </p>
