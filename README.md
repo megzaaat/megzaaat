@@ -35,7 +35,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-333333?style=for-the-badge)
 
----
+------------------
 
 ### 🧠 AI, ML & Intelligent Systems
 
