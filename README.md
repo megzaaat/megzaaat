@@ -2,7 +2,7 @@
 
 # Hello 👋🏻, This is Ahmed Magdy Asker
 
-# Senior Mobile Developer transitioning into AI Engineering.
+# 🚀 Software Engineer • AI Engineer • Mobile Developer
 
 <p align="center">
   <img
