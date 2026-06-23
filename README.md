@@ -114,7 +114,11 @@
 
 ## 🎯 Current Focus
 
-
+* 🤖 AI Agents & Autonomous Workflows
+* 🧠 RAG & LLM Applications
+* 📱 Flutter, Android & iOS Development
+* ☁️ Cloud Native Architecture
+* 🚀 High-Performance Backend Systems
 
 ---
 
