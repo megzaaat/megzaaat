@@ -2,7 +2,6 @@
 
 # Hello 👋🏻, This is Ahmed Magdy Asker
 
-# 🚀 Software Engineer • AI Engineer • Mobile Developer
 
 <p align="center">
   <img
