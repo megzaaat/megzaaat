@@ -22,6 +22,7 @@
 </div>
 
 ------------------
+## 🛠️ Tech Stack & Tools
 
 ### 🧩 Backend & System Design
 
