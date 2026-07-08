@@ -99,19 +99,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=megzaaat&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megzaaat&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=megzaaat&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 * 🤖 AI Agents & Autonomous Workflows
