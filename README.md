@@ -112,5 +112,6 @@
 <div align="center">
 
 ### ⭐ If you like my work, consider following me and starring my repositories.
+### Regards
 
 </div>
