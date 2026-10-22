@@ -2,7 +2,7 @@
 
 # Hello 👋🏻, This is Ahmed Magdy Asker
 
-# 🚀 Senior Software Engineer • AI Engineer • Senior Mobile Developer • Senior Flutter Developer 
+# 🚀 Senior Software Engineer • AI Engineer • Senior Mobile Developer • Senior React Native Developer • Senior Flutter Developer 
 
 <p align="center">
   <img
